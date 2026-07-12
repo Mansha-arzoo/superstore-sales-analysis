@@ -6,13 +6,13 @@ using Python (pandas, matplotlib, seaborn).
 
 ## Key Findings
 - Technology is the most profitable category; West region leads in sales and profit
-- Tables consistently lose money despite steady sales — a discounting problem
-- Profit turns negative once discounts exceed ~[your %] — data shows discounting 
+- Tables consistently lose money despite steady sales  a discounting problem
+- Profit turns negative once discounts exceed 10%  data shows discounting 
   past this point actively hurts the business
 
 ## Tools used
 Python, pandas, matplotlib, seaborn, Google Colab
 
 ## Files
-- `superstore_analysis.ipynb` — full analysis notebook
-- `Sample - Superstore.csv` — dataset used
+- Superstore_analysis.ipynb — full analysis notebook
+- Sample - Superstore.csv — dataset used
